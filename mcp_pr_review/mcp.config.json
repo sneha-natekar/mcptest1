@@ -1,0 +1,5 @@
+{
+  "name": "pull-request-reviewer",
+  "description": "A tool to review GitHub pull requests using MCP",
+  "tools": ["./tools/getPullRequestDiff"]
+}
